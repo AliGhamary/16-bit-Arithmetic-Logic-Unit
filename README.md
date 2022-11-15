@@ -10,7 +10,8 @@ The ALU consists of indivually designed components that include:
 5) Shifter Unit
 6) Two MUX Units
 
-A (16-bit), B (16-bit), an Opcode (3-bit), and Mode (1-bit) are the inputs
+A (16-bit), B (16-bit), an Opcode (3-bit), and Mode (1-bit) are the inputs.
+
 ALUOut (16-bit) and Cout (1-bit) are the outputs of the design. 
 
 A and B hold the values of the operands. Mode and Opcode together indicate the type of the operation performed by ALU.
